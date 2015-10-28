@@ -1,0 +1,7 @@
+[package]
+name = "perlin_noise_generator"
+version = "0.1.0"
+authors = ["David Jenkins <david.nicholas.jenkins@gmail.com>"]
+
+[dependencies]
+image = "*"
